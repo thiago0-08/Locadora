@@ -1,0 +1,56 @@
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.AssemblyInfoInputs.cache
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.AssemblyInfo.cs
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.csproj.CoreCompileInputs.cache
+C:\C#LOCADORA\LOCADORA\bin\Debug\net8.0\LOCADORA.exe
+C:\C#LOCADORA\LOCADORA\bin\Debug\net8.0\LOCADORA.deps.json
+C:\C#LOCADORA\LOCADORA\bin\Debug\net8.0\LOCADORA.runtimeconfig.json
+C:\C#LOCADORA\LOCADORA\bin\Debug\net8.0\LOCADORA.dll
+C:\C#LOCADORA\LOCADORA\bin\Debug\net8.0\LOCADORA.pdb
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.dll
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\refint\LOCADORA.dll
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.pdb
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\LOCADORA.genruntimeconfig.cache
+C:\C#LOCADORA\LOCADORA\obj\Debug\net8.0\ref\LOCADORA.dll
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.AssemblyInfoInputs.cache
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.AssemblyInfo.cs
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.csproj.CoreCompileInputs.cache
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.dll
+C:\LOCADORA\obj\Debug\net8.0\refint\LOCADORA.dll
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.pdb
+C:\LOCADORA\bin\Debug\net8.0\LOCADORA.exe
+C:\LOCADORA\bin\Debug\net8.0\LOCADORA.deps.json
+C:\LOCADORA\bin\Debug\net8.0\LOCADORA.runtimeconfig.json
+C:\LOCADORA\bin\Debug\net8.0\LOCADORA.dll
+C:\LOCADORA\bin\Debug\net8.0\LOCADORA.pdb
+C:\LOCADORA\obj\Debug\net8.0\LOCADORA.genruntimeconfig.cache
+C:\LOCADORA\obj\Debug\net8.0\ref\LOCADORA.dll
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\bin\Debug\net8.0\LOCADORA.exe
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\bin\Debug\net8.0\LOCADORA.deps.json
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\bin\Debug\net8.0\LOCADORA.runtimeconfig.json
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\bin\Debug\net8.0\LOCADORA.dll
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\bin\Debug\net8.0\LOCADORA.pdb
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.AssemblyInfo.cs
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.dll
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\refint\LOCADORA.dll
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.pdb
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\LOCADORA.genruntimeconfig.cache
+C:\Users\Aula\Documents\LOCADORA\Projeto P1\obj\Debug\net8.0\ref\LOCADORA.dll
+G:\projetos\Projeto P1 (1)\Projeto P1\bin\Debug\net8.0\LOCADORA.exe
+G:\projetos\Projeto P1 (1)\Projeto P1\bin\Debug\net8.0\LOCADORA.deps.json
+G:\projetos\Projeto P1 (1)\Projeto P1\bin\Debug\net8.0\LOCADORA.runtimeconfig.json
+G:\projetos\Projeto P1 (1)\Projeto P1\bin\Debug\net8.0\LOCADORA.dll
+G:\projetos\Projeto P1 (1)\Projeto P1\bin\Debug\net8.0\LOCADORA.pdb
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.GeneratedMSBuildEditorConfig.editorconfig
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.AssemblyInfoInputs.cache
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.AssemblyInfo.cs
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.csproj.CoreCompileInputs.cache
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.dll
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\refint\LOCADORA.dll
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.pdb
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\LOCADORA.genruntimeconfig.cache
+G:\projetos\Projeto P1 (1)\Projeto P1\obj\Debug\net8.0\ref\LOCADORA.dll
